@@ -1,6 +1,5 @@
 {
-    "onCreateCommand": "mkdir -p /workspaces/app",
-    "workspaceFolder": "/workspaces/app",
+    "workspaceFolder": "/workspaces/cs-examples/.devcontainer",
     "settings": {
         "editor.formatOnSave": false,
         "python.linting.pylintEnabled": "false"
