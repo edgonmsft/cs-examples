@@ -1,5 +1,5 @@
 {
-    "postCreateCommand": "mkdir -p /workspaces/app",
+    "onCreateCommand": "mkdir -p /workspaces/app",
     "workspaceFolder": "/workspaces/app",
     "settings": {
         "editor.formatOnSave": false,
