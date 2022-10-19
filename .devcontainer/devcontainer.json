@@ -1,4 +1,6 @@
 {
+    "postCreateCommand": "mkdir -p /workspaces/app",
+    "workspaceFolder": "/workspaces/app",
     "settings": {
         "editor.formatOnSave": false,
         "python.linting.pylintEnabled": "false"
